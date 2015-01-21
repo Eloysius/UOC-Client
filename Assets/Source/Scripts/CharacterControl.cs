@@ -13,7 +13,7 @@ public class CharacterControl : MonoBehaviour
 	public float strafeSpeed   = 0.25f;
 
 	private GameObject player;
-
+    //Hoppertje made this line
 
 	private void Start( )
         {
