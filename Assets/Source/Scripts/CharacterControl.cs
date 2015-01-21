@@ -14,8 +14,6 @@ public class CharacterControl : MonoBehaviour
 
 	private GameObject player;
     
-	//My line is better!
-
 	private void Start( )
         {
         GameObject CLIENT = GameObject.Find( "CLIENT" );
